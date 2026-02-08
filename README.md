@@ -1,12 +1,12 @@
 ![MasterHead](https://www.sneci.com/wp-content/uploads/2024/10/sneci-adas-system.jpg)
 <div align="center">
- <a href="https://github.com/recep-talha">
+ <a href="https://github.com/recepyalcinkaya">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Recep+Talha+%e2%9c%a8;%f0%9f%92%bb+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 <h3 align="center">AI & Computer Vision Developer | ADAS(Advanced Driving Assistant System) | Building autonoms & electric vehicles</h3>
 
-- 🔭 I’m currently working on [AI-powered ADAS for Electric Vehicles](https://github.com/recep-talha/ADAS)
+- 🔭 I’m currently working on [AI-powered ADAS for Electric Vehicles](https://github.com/recepyalcinkaya/ADAS)
 
 - 🌱 I’m currently learning **Sensor Fusion, Embedded AI (Jetson/Raspberry Pi), Real-time Object Tracking**
 
@@ -14,15 +14,15 @@
 
 - 🤝 I’m looking for help with **Optimizing YOLO models for embedded systems / Sensor Fusion**
 
-- 👨‍💻 All of my projects are available at [https://github.com/recep-talha](https://github.com/recep-talha)
+- 👨‍💻 All of my projects are available at [https://github.com/recepyalcinkaya](https://github.com/recepyalcinkaya)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/recep-talha-yalçınkaya-0515b0302/](https://www.linkedin.com/in/recep-talha-yalçınkaya-0515b0302/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/recep-yalçınkaya](https://www.linkedin.com/in/recep-yalçınkaya)
 
 - 💬 Ask me about **YOLO, OpenCV, Python, Custom Dataset Creation, Model Training, Navigation Systems**
 
 - 📫 How to reach me **receptalha0899@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/recep-talha-yalçınkaya-0515b0302/](https://www.linkedin.com/in/recep-talha-yalçınkaya-0515b0302/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/recep-yalçınkaya](https://www.linkedin.com/in/recep-yalçınkaya)
 
 - ⚡ Fun fact **I'm teaching cars how to see, so they don't crash. 🚗👁️**
 
