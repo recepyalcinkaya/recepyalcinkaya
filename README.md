@@ -16,13 +16,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/recepyalcinkaya](https://github.com/recepyalcinkaya)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/recep-yalcinkaya](https://www.linkedin.com/in/recep-yalcinkaya)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/recep-yalçınkaya-0515b0302/](https://www.linkedin.com/in/recep-yalçınkaya-0515b0302/)
 
 - 💬 Ask me about **YOLO, OpenCV, Python, Custom Dataset Creation, Model Training, Navigation Systems**
 
 - 📫 How to reach me **receptalha0899@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/recep-yalcinkaya](https://www.linkedin.com/in/recep-yalcinkaya)
+- 📄 Know about my experiences [https://www.linkedin.com/in/recep-yalçınkaya-0515b0302/](https://www.linkedin.com/in/recep-yalçınkaya-0515b0302/)
 
 - ⚡ Fun fact **I'm teaching cars how to see, so they don't crash. 🚗👁️**
 
